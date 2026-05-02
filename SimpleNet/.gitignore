@@ -1,0 +1,7 @@
+__pycache__/
+MVTec_LOCO/
+venv/
+results/
+imgs/
+miniconda.sh
+*.log
